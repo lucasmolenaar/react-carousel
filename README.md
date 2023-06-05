@@ -1,1 +1,1 @@
-# Image Carousel (Slider) created with React
+# Image Carousel (slider) created with React
